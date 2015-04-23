@@ -1,0 +1,47 @@
+.container{
+	
+	margin-top: 30px;
+	height: 100%;
+}
+
+.jumbotron{
+	background-image:url('bilder/IMG_0939.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+
+}
+
+
+.abouttext{
+	padding: 10px 20px;
+}
+
+#body{
+	min-height: 455px;
+}
+
+#footer{
+	
+	
+	display: block;
+	height: 130px;
+	padding: 10px;
+	bottom: 0;
+	border-top: 1px solid #c2c2d6;
+	position: relative;
+	margin-top: 10px;
+
+}
+
+button{
+	border-radius: 10px;
+	color: white;
+}
+
+.more{
+	width: 70%;
+	background-color: #D1D1E0;
+	border-radius: 5px;
+	padding: 5px;
+}
